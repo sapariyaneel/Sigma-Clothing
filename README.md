@@ -26,7 +26,7 @@
 <h2>Installation</h2>
 <p>To view or modify this project locally, follow these simple steps:</p>
 <ol>
-    <li><code>git clone https://github.com/yourusername/sigma-clothing.git</code></li>
+    <li><code>git clone https://github.com/sapariyaneel/sigma-clothing.git</code></li>
     <li><code>cd sigma-clothing</code></li>
     <li><p>Open <code>index.html</code> in your preferred web browser to view the website.</p></li>
 </ol>
