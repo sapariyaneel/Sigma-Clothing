@@ -23,14 +23,6 @@
     <li><strong>CSS3:</strong> Used for styling the website, creating layouts, and ensuring responsiveness across devices.</li>
 </ul>
 
-<h2>Installation</h2>
-<p>To view or modify this project locally, follow these simple steps:</p>
-<ol>
-    <li><code>git clone https://github.com/sapariyaneel/sigma-clothing.git</code></li>
-    <li><code>cd sigma-clothing</code></li>
-    <li><p>Open <code>index.html</code> in your preferred web browser to view the website.</p></li>
-</ol>
-
 <h2>Usage</h2>
 <p>Once you open the website in your browser, you will be greeted with a visually appealing homepage featuring various clothing categories. Users can click on different sections to explore products further. Each product page includes detailed information about the items, including images and descriptions.</p>
 
