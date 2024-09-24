@@ -1,0 +1,48 @@
+.header h1{
+    font-size: 35px;
+}
+.header .slogan{
+    font-size: 10px;
+}
+nav li a,nav li{
+    font-size: 12px;
+    padding: 0px 7px;
+}
+nav{
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.marketing-1,.marketing-2{
+    height: 200px;
+    width: 100%;
+    justify-content:center ;
+}
+.banner,.ad{
+    height: 200px;
+}
+.ad{
+    width: 10%;
+}
+.ad img{
+    height: 200px;
+    width: 100%;
+}
+.brands-sec{
+    padding: 0px;
+    height: 118px;
+}
+.brands-sec h1{
+    font-size: 22px;
+    padding: 0px;
+    margin: 0px;
+}
+.brands-pic{
+    flex-wrap: wrap;
+    height: 74px;
+    /*overflow-inline:hidden;*/
+}
+.brands-pic img{
+    height: 67px;
+    padding: 7px;
+}

@@ -1,0 +1,147 @@
+*{
+    margin: 0ch;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: all .1s ease-in;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+.line{
+    margin: 7px 57px;
+    width: 143px;
+}
+.header{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 14px;
+}
+.header h1{
+    color:#009c9c;
+    margin: 5px;
+    margin-bottom: 0ch;
+    font-size: 45px;
+}
+.slogan{
+    font-size: 14px;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    font-weight:bold;
+    background-color: white;
+    padding: 1px;
+}
+nav li{
+    list-style:none;
+    padding: 5px 57px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    background-color: #009c9c;
+    color: white;
+}
+.main-1,.main-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.section{
+    height: 550px;
+    padding: 20px 58px;
+    box-shadow: 5px 5px 8px -5px black;
+    text-align: center;
+}
+.section:hover{
+    transform: scale(1.02);
+}
+.buy{
+    /* font-weight: bold; */
+    background-color: rgb(255, 208, 0);
+    color: black;
+    border: transparent;
+    padding: 6px;
+    width: 70%;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.buy:hover{
+    transform: scale(1.1);
+}
+.addtocart{
+    height: 20px;
+    width: 20px;
+}
+.buynow{
+    height: 15px;
+    width: 15px;
+}
+.buy a{
+    color: black;
+}
+.gap-1{
+    margin-top: 13px;
+    /* background-color:rgb(0, 0, 0,0.2); */
+}
+.gap-2{
+    margin-top: 5px;
+}
+.trousers{
+    height: 400px;
+    border: none;
+    border-radius: 10px;
+}
+/* .section img:hover{
+    filter: blur(2px);
+} */
+.mrp::after{
+    content:"  50% Off";
+    color: red;
+}
+.mrp-2::after{
+    content:"  25% Off";
+    color: red;
+}
+.mrp-3::after{
+    content:"  50% Off";
+    color: red;
+}
+.mrp-4::after{
+    content:"  60% Off";
+    color: red;
+}
+.mrp-5::after{
+    content:"  50% Off";
+    color: red;
+}
+.mrp-6::after{
+    content:"  42% Off";
+    color: red;
+}
+.mrp-7::after{
+    content:"  50% Off";
+    color: red;
+}
+.mrp-8::after{
+    content:"  60% Off";
+    color: red;
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    margin:50px 534px;
+}
+.upcoming{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
